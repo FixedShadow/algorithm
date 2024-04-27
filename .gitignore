@@ -1,0 +1,5 @@
+# Keep editor-specific, non-project specific ignore rules in global .gitignore:
+# https://help.github.com/articles/ignoring-files/#create-a-global-gitignore
+
+.idea/
+build/
